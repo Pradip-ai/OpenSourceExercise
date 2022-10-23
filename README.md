@@ -1,2 +1,2 @@
 # OpenSourceExercise
-This document is owned by Pradip, and learnt from @AlexTheAnalyst from youtube.
+This document is owned by Pradip.
